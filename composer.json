@@ -1,9 +1,6 @@
 {
     "name": "justvlad17/terminal-games",
     "description": "This is a terminal brain games",
-    "stability": "dev",
-    "minimum-stability": "dev",
-    "version": "1.0.0",
     "keywords": [
     	"terminal_games",
     	"game"
@@ -35,7 +32,6 @@
     	]
     },	
     "require": {
-    	"php": "7.4.*",
         "wp-cli/php-cli-tools": "^0.11.11"
     },
     "require-dev": {
