@@ -38,6 +38,7 @@
     "require-dev": {
     	"squizlabs/php_codesniffer": "^3.5"
     },
+    "minimum-stability": "dev",
     "scripts": {
  	"phpcs": "phpcs"
     } 	
