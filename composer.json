@@ -1,6 +1,8 @@
 {
     "name": "justvlad17/terminal-games",
     "description": "This is a terminal brain games",
+    "version": "1.0.0",
+    "stability": "stable",
     "keywords": [
     	"terminal_games",
     	"game"
