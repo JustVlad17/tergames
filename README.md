@@ -1,9 +1,9 @@
 # TerminalGames Project
 
-# Desription 
+# Desсription 
 
 This is the "Terminal Games"
 
-#Install
+# Install
 
 composer require justvlad17/terminal-games
